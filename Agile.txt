@@ -1,0 +1,141 @@
+1#What is Agile?
+Agile is a process or methodology or dynamic env. where nothing is fixed,based on the requirement can be changed, so user has more readabilty in duration of devlepment
+and testing before making a product,Where in agile all teams are works together parallelly dev. team develop the source code and testing team write the test cases.
+
+-----------------------------------------------------------------------------
+
+3#Difference between traditional model and agile testing?
+1.In traditional model testing is done at the end of the development where as in agile testing is done parallel to development.
+2.In traditional model testing is done on whole application where as in agile testing is done on small features.
+
+-----------------------------------------------------------------------------
+
+3#Difference between iterative vs incremental development?
+In iterative development we are developing the application continuously till end of the last requirment and release to the testing and client or customer and 
+get the feedback from client to dev. team then they want some changes then dev. team need a time to implement those changes whereas in incremental development we are 
+develop the application in small small parts and release to customer, so they can give feedback and implement those changes quickly, 
+so here we are save the lot of time and acheving the accuracy of requirement.
+
+-----------------------------------------------------------------------------
+
+What qualities should a good agile tester have?
+1.agile tester should be understand the requirement quickly 
+2.agile tester should know agile concept and principle
+3.agile tester should be always communicate with product owner and devlopers.
+
+-----------------------------------------------------------------------------
+
+What is TDD?
+
+-----------------------------------------------------------------------------
+
+What is zero sprint in agile?
+Zero sprint which means we have to follow some pre requisites before going to start the first sprint ex: software installation, bring the devices and etc.
+-----------------------------------------------------------------------------
+
+
+2#What is burn up and burn down?
+1.burn up represent the chart how much work has been completed in project by dev.team and testing team.
+2.burn down represent the chart how much work are remaining in project by dev.team and testing team.
+
+-----------------------------------------------------------------------------
+
+3#What is UserStroy and task and Epic?
+UserStory is a part of reqiurment where all the requirments are mentioned in the form of acceptance criteria and many more like:
+*SprintName
+*Userstory of ownerName
+*SprintTime
+*SquadName
+*Multiple task of DEV. and QA team
+*Product OwnerName(CreatorName)
+*CreationDate
+*Comment Section
+*BuildName
+*Severity
+*Priorty
+*Env.Name
+*StoryPoints
+*History
+
+-----------------------------------------------------------------------------
+4#What is product backlog and sprint backlog
+1.Product backlog - product backlog is mantained by product owner which contains multiple requirments and feature of the product in the form of priority wises.
+2.Sprint backlog  - sprint backlog is subset of product backlog which contains user stories of the product which is related to the particular sprint.
+(once all the requirments comes under the sprint backlog that will be convert in the form of user story)
+
+-----------------------------------------------------------------------------
+
+5#Define the roles in scrum?
+1.Product owner - Product owner is that person who convert the reqiurement into multiple user story and who has end to end knowledge of the requirement
+ and works with customer or end users and scrum team and responsibilty of product backlog.
+
+2.Scrum Master - Scrum Master is that person, who has reponsible for technical problems to resolved that and 
+ make sure each sprint complete on time and ensure proper workflow to the team.
+
+----------------------------------------------------------------------------
+
+
+6#What is sprint?
+Sprint is specific time block where dev and testing team have to complete all the task within specific time which is created by both team in same user story 
+and in same sprint. (generic sprint time is 2 weeks.)
+
+----------------------------------------------------------------------------
+
+
+7#What do you mean by scrum meeting?
+In scrum meeting all scrum team member meet together on the daily basis and scrum master or squad lead takes the status of each and every team member like:
+1.What you have done last day.
+2.what will you do today.
+3.Any backlogs
+4.scrum metting should be held 15min to 20min for whole team.
+5.If any blocker then product owner and scrum master will be responsible.
+
+----------------------------------------------------------------------------
+
+#8What do you mean by Sprint demo?
+In sprint demo scrum team or QA,DEV or any scrum team member can give the sprint demo means what we have done in current sprint or last sprint 
+or what things you have implemented, we have to represent in the presence of product owner.
+
+----------------------------------------------------------------------------
+
+#9What do you mean by Squad?
+Squad means group of scrum team menber, In a one squad 5 to 6 member will be included or based on the requiremnet with one squad lead, squad lead 
+will work together and he/she will monitor own squad work.
+like:
+1.2QA 
+2.3DEV
+
+NOTE:Agile is a less documantation process or we do not create any document in agile, 
+whatever in mentioned in the document in agile product owner mentioned in the form of US or Acceptance criteria.
+
+-----------------------------------------------------------------------------
+
+#10Explain Pair programming or pear review and its benefits?
+Pair programming or pear review is technique where two programmer work together one prog. write a code and second prog. review the code of first prog.
+*Improve the code quality.
+*Knowledge transfer is easy.
+
+-----------------------------------------------------------------------------
+
+11#What is re-factoring?
+Modification of the code means on UI or look and feel without changing any functionality.
+
+-----------------------------------------------------------------------------
+
+13#What is Spike?
+There may be technical needs or issues or design issue in the project which is need to be resolved first to provide the solution of these problem Spikes are created.
+
+-----------------------------------------------------------------------------
+
+14#How do we give UST points in Agile?
+*Based on the acceptance criteria we can give points.
+*Based on the majority points will be decide.
+*If each and every scrum team member points will be different then each and every scrum team member have to justify why should we give your points technically.
+
+NOTE: In One UST points will be given for both DEV and QA Team.
+
+
+
+
+
+
